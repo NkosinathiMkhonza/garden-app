@@ -14,6 +14,7 @@ MONTH_TO_SEASON = {
 }
 
 # Gardening advice mapped by season
+# Add docstrings to all functions to improve code documentation issue 2
 SEASON_ADVICE = {
     "Summer": [
         "Water plants early in the morning to reduce evaporation.",
