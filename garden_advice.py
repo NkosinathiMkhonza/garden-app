@@ -4,7 +4,7 @@ garden_advice.py
 Provides gardening tips and advice based on the current month and season.
 Designed for gardening enthusiasts around the world.
 """
-
+#########so what now?, tell me what now 
 # Season definitions mapping each month to its season
 MONTH_TO_SEASON = {
     12: "Summer", 1: "Summer", 2: "Summer",       # Southern Hemisphere
